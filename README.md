@@ -1,3 +1,4 @@
+[![Telegram Badge](https://img.shields.io/badge/-Write_me-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/umbilnm)
 
 ![LeetCode](https://badges.peiyuan.ch/leetcode/9loxoped/name)
 ![LeetCode](https://badges.peiyuan.ch/leetcode/9loxoped/ranking)
@@ -9,6 +10,3 @@
 
 ![LeetCode](https://badges.peiyuan.ch/leetcode/9loxoped/submission?accepted=true&difficulty=medium)
 ![LeetCode](https://badges.peiyuan.ch/leetcode/9loxoped/rate?difficulty=medium)
-
-![LeetCode](https://badges.peiyuan.ch/leetcode/9loxoped/submission?accepted=true&difficulty=hard)
-![LeetCode](https://badges.peiyuan.ch/leetcode/9loxoped/rate?difficulty=hard)
